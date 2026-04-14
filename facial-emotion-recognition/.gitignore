@@ -1,0 +1,11 @@
+data/raw/
+data/processed/
+models/
+*.h5
+*.pt
+*.pth
+__pycache__/
+*.pyc
+.env
+venv/
+.ipynb_checkpoints/
